@@ -1,5 +1,5 @@
 # Arcade-PingPong
-Classic  Two Player Arcade Pong Game.
+Classic  Two Player Arcade Pong Game. Built in Python using the Turtle Module
 
 
 
